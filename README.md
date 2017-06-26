@@ -2,6 +2,9 @@
 
 You will be creating a little pick-the-person game with HTML, CSS, and jQuery!
 
+## Update Your GitHub Profile Picture
+Before you get started writing code, please update your GitHub profile to include a picture of yourself. 
+
 ## Display Profile Pictures
 On document load, append four (or more!) divs on to the DOM with jQuery, each containing an image from each member of your groups GitHub profile.  As an example, the below HTML would produce Huck's GitHub profile picture where `huckbee` is Huck's GitHub username.
 
