@@ -1,25 +1,90 @@
 var people = [
-  {name: 'Alec', github: 'alecsands'},
-  {name: 'Alecia', github: 'ale-cia'},
-  {name: 'Amanda', github: 'geekybrewster'},
-  {name: 'Anne', github: 'kenne835'},
-  {name: 'Antonio', github: 'antoniorice'},
-  {name: 'Ben H.', github: 'benjaminhaesemeyer'},
-  {name: 'Ben S.', github: 'bendrumin'},
-  {name: 'Brendin', github: 'brendinbarone'},
-  {name: 'Catherine', github: 'catyanish'},
-  {name: 'Chase', github: 'chasewhitney'},
-  {name: 'Chris', github: 'christopher-black'},
-  {name: 'David', github: 'sohlinspire'},
-  {name: 'Dexter', github: 'dexter-stpierre'},
-  {name: 'Emily', github: 'emilykuplic'},
-  {name: 'Huck', github: 'huckbee'},
-  {name: 'James', github: 'jamesleary'},
-  {name: 'Kris', github: 'kdszafranski'},
-  {name: 'Dillon', github: 'dillonpatterson'},
-  {name: 'Miles', github: 'nelsong44'},
-  {name: 'Nicole', github: 'SNMartin1'},
-  {name: 'Peter', github: 'peter-prentiss'},
-  {name: 'Ted', github: 'th30d0rab1e'},
-  {name: 'Tom', github: 'tombrossart'}
+  {
+    name: 'Abdirahman Suleman',
+    githubUsername: 'abdisuleman12'
+  },
+  {
+    name: 'Adam Biessener',
+    githubUsername: 'abiessener'
+  },
+  {
+    name: 'Alexander Jung',
+    githubUsername: 'alexmjung'
+  },
+  {
+    name: 'Ami Schroeder',
+    githubUsername: 'amischroeder'
+  },
+  {
+    name: 'Brendt Bly',
+    githubUsername: 'roseinapuddle'
+  },
+  {
+    name: 'Caleb Miskowiec',
+    githubUsername: 'calebmiskowiec94'
+  },
+  {
+    name: 'Canin Apriori',
+    githubUsername: 'dreamfreely'
+  },
+  {
+    name: 'Charles Renk',
+    githubUsername: 'charlyrenk'
+  },
+  {
+    name: 'Emily Persons',
+    githubUsername: 'erpersons'
+  },
+  {
+    name: 'Eric Austin',
+    githubUsername: 'ericaustin'
+  },
+  {
+    name: 'Ian Charles Lehfeldt',
+    githubUsername: 'ianlehfeldt'
+  },
+  {
+    name: 'Jennifer Show',
+    githubUsername: 'jdshow'
+  },
+  {
+    name: 'Julie Zimmer',
+    githubUsername: 'juliezimmer'
+  },
+  {
+    name: 'Kevin McMahon',
+    githubUsername: 'polygeekism'
+  },
+  {
+    name: 'Nicholas Bade',
+    githubUsername: 'nicbade'
+  },
+  {
+    name: 'Robert Cordray',
+    githubUsername: 'rcordray'
+  },
+  {
+    name: 'Roxanne Kraai',
+    githubUsername: 'rmcharchian'
+  },
+  {
+    name: 'Ryan Kiang',
+    githubUsername: 'rkiang'
+  },
+  {
+    name: 'Ryan Templin',
+    githubUsername: 'tempjuice'
+  },
+  {
+    name: 'Sam Fortin',
+    githubUsername: 'sjfortin'
+  },
+  {
+    name: 'Tim Lohmann',
+    githubUsername: 'lohmanntim'
+  },
+  {
+    name: 'Tom Ritland',
+    githubUsername: 'tritland'
+  }
 ];
