@@ -1,90 +1,70 @@
 var people = [
   {
-    name: 'Abdirahman Suleman',
-    githubUsername: 'abdisuleman12'
+    name: 'Zack',
+    githubUsername: 'zackstout'
   },
   {
-    name: 'Adam Biessener',
-    githubUsername: 'abiessener'
+    name: 'Josh',
+    githubUsername: 'joshnothum'
   },
   {
-    name: 'Alexander Jung',
-    githubUsername: 'alexmjung'
+    name: 'Marta',
+    githubUsername: 'martajopp'
   },
   {
-    name: 'Ami Schroeder',
-    githubUsername: 'amischroeder'
+    name: 'Blaze',
+    githubUsername: 'blaze90809'
   },
   {
-    name: 'Brendt Bly',
-    githubUsername: 'roseinapuddle'
+    name: 'Sarah',
+    githubUsername: 'sarahharrington'
   },
   {
-    name: 'Caleb Miskowiec',
-    githubUsername: 'calebmiskowiec94'
+    name: 'Kevin',
+    githubUsername: 'lackaff-gilligan'
   },
   {
-    name: 'Canin Apriori',
-    githubUsername: 'dreamfreely'
+    name: 'Aaron',
+    githubUsername: 'bozeman42'
   },
   {
-    name: 'Charles Renk',
-    githubUsername: 'charlyrenk'
+    name: 'Alex',
+    githubUsername: 'alexanderbliss'
   },
   {
-    name: 'Emily Persons',
-    githubUsername: 'erpersons'
+    name: 'David',
+    githubUsername: 'dbeaudway'
   },
   {
-    name: 'Eric Austin',
-    githubUsername: 'ericaustin'
+    name: 'Holly',
+    githubUsername: 'hollytuhake'
   },
   {
-    name: 'Ian Charles Lehfeldt',
-    githubUsername: 'ianlehfeldt'
+    name: 'Emma',
+    githubUsername: 'emmastout01'
   },
   {
-    name: 'Jennifer Show',
-    githubUsername: 'jdshow'
+    name: 'Xong',
+    githubUsername: 'xongxiong'
   },
   {
-    name: 'Julie Zimmer',
-    githubUsername: 'juliezimmer'
+    name: 'Laura',
+    githubUsername: 'goetsit'
   },
   {
-    name: 'Kevin McMahon',
-    githubUsername: 'polygeekism'
+    name: 'Jaffa',
+    githubUsername: 'jaharonov'
   },
   {
-    name: 'Nicholas Bade',
-    githubUsername: 'nicbade'
+    name: 'Emi',
+    githubUsername: 'emimbchen'
   },
   {
-    name: 'Robert Cordray',
-    githubUsername: 'rcordray'
+    name: 'Elvis',
+    githubUsername: 'elvishang'
   },
   {
-    name: 'Roxanne Kraai',
-    githubUsername: 'rmcharchian'
-  },
-  {
-    name: 'Ryan Kiang',
-    githubUsername: 'rkiang'
-  },
-  {
-    name: 'Ryan Templin',
-    githubUsername: 'tempjuice'
-  },
-  {
-    name: 'Sam Fortin',
-    githubUsername: 'sjfortin'
-  },
-  {
-    name: 'Tim Lohmann',
-    githubUsername: 'lohmanntim'
-  },
-  {
-    name: 'Tom Ritland',
-    githubUsername: 'tritland'
+    name: 'Hanna',
+    githubUsername: 'bemeo1088' 
   }
 ];
