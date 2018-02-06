@@ -1,70 +1,70 @@
 var people = [
   {
-    name: 'Zack',
-    githubUsername: 'zackstout'
+    name: 'Renee',
+    githubUsername: 'Feora1343'
   },
   {
-    name: 'Josh',
-    githubUsername: 'joshnothum'
+    name: 'Taylor',
+    githubUsername: 'TaylorNine'
   },
   {
-    name: 'Marta',
-    githubUsername: 'martajopp'
+    name: 'Christiana',
+    githubUsername: 'crouton21'
   },
   {
-    name: 'Blaze',
-    githubUsername: 'blaze90809'
+    name: 'Nicholas',
+    githubUsername: 'winslownick'
   },
   {
-    name: 'Sarah',
-    githubUsername: 'sarahharrington'
+    name: 'Jacob',
+    githubUsername: 'Jaco26'
   },
   {
-    name: 'Kevin',
-    githubUsername: 'lackaff-gilligan'
+    name: 'Tenzin',
+    githubUsername: 'Tenzin1993'
   },
   {
-    name: 'Aaron',
-    githubUsername: 'bozeman42'
+    name: 'Ryan',
+    githubUsername: 'Arkmer'
   },
   {
     name: 'Alex',
-    githubUsername: 'alexanderbliss'
+    githubUsername: 'alex-aspell'
   },
   {
-    name: 'David',
-    githubUsername: 'dbeaudway'
+    name: 'Daniel',
+    githubUsername: 'dshugarts'
   },
   {
-    name: 'Holly',
-    githubUsername: 'hollytuhake'
+    name: 'Carter',
+    githubUsername: 'CarterSchleif'
   },
   {
-    name: 'Emma',
-    githubUsername: 'emmastout01'
+    name: 'Louis',
+    githubUsername: 'heimlouis'
   },
   {
-    name: 'Xong',
-    githubUsername: 'xongxiong'
+    name: 'Sam',
+    githubUsername: 'samstanding'
   },
   {
-    name: 'Laura',
-    githubUsername: 'goetsit'
+    name: 'James',
+    githubUsername: 'Zygy93'
   },
   {
-    name: 'Jaffa',
-    githubUsername: 'jaharonov'
+    name: 'Selena',
+    githubUsername: 'selenacarlson'
   },
   {
-    name: 'Emi',
-    githubUsername: 'emimbchen'
+    name: 'Elizabeth',
+    githubUsername: 'lizzwong'
   },
   {
-    name: 'Elvis',
-    githubUsername: 'elvishang'
+    name: 'Logan',
+    githubUsername: 'loganolzenak'
   },
   {
-    name: 'Hanna',
-    githubUsername: 'bemeo1088' 
+    name: 'Michael',
+    githubUsername: 'mdgregoire' 
   }
 ];
