@@ -36,6 +36,6 @@ When the player clicks on the correct person, add a visual cue that indicates th
 
 ## Pro Mode
 
-Add some jQuery effects, animations and styling to your game! There are quite a few built in. [See the Docs!] (https://api.jquery.com/category/effects/)
+- Add some jQuery effects, animations and styling to your game! There are quite a few built in. [See the Docs!] (https://api.jquery.com/category/effects/)
 
-Randomize the array of images before displaying them on the page to make the game more challenging.
+- Randomize the array of images before displaying them on the page to make the game more challenging.
