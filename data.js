@@ -1,70 +1,78 @@
 var people = [
   {
-    name: 'Renee',
-    githubUsername: 'Feora1343'
+    name: 'Atticus',
+    githubUsername: 'rapomerantz'
   },
   {
-    name: 'Taylor',
-    githubUsername: 'TaylorNine'
+    name: 'Blake',
+    githubUsername: 'BlakeBurbach'
   },
   {
-    name: 'Christiana',
-    githubUsername: 'crouton21'
+    name: 'Brittany',
+    githubUsername: 'bjmarty23' 
   },
   {
-    name: 'Nicholas',
-    githubUsername: 'winslownick'
+    name: 'David',
+    githubUsername: 'davidthekesler'
   },
   {
-    name: 'Jacob',
-    githubUsername: 'Jaco26'
+    name: 'Ian',
+    githubUsername: 'iancarthey'
+  },
+  {
+    name: 'Jonathan',
+    githubUsername: 'daydreammsp'
+  },
+  {
+    name: 'Joshua',
+    githubUsername: 'JoshuaJLeary'
+  },
+  {
+    name: 'Justin',
+    githubUsername: 'jmpeterson18460'
+  },
+  {
+    name: 'Kam',
+    githubUsername: 'KKubesh'
+  },
+  {
+    name: 'Kerry',
+    githubUsername: 'kburns17'
+  },
+  {
+    name: 'Melody',
+    githubUsername: 'Melody8988'
+  },
+  {
+    name: 'Sam',
+    githubUsername: 'SamTrapskin'
+  },
+  {
+    name: 'Sarah',
+    githubUsername: 'sarahbloom'
+  },
+  {
+    name: 'Steven',
+    githubUsername: 'stevenjameshogan' 
+  },
+  {
+    name: 'Stephen',
+    githubUsername: 'stephen-engler'
+  },
+  {
+    name: 'Teagan',
+    githubUsername: '	tnouska'
   },
   {
     name: 'Tenzin',
     githubUsername: 'Tenzin1993'
   },
   {
-    name: 'Ryan',
-    githubUsername: 'Arkmer'
+    name: 'Thomas',
+    githubUsername: 'tjang31'
   },
   {
-    name: 'Alex',
-    githubUsername: 'alex-aspell'
-  },
-  {
-    name: 'Daniel',
-    githubUsername: 'dshugarts'
-  },
-  {
-    name: 'Carter',
-    githubUsername: 'CarterSchleif'
-  },
-  {
-    name: 'Louis',
-    githubUsername: 'heimlouis'
-  },
-  {
-    name: 'Sam',
-    githubUsername: 'samstanding'
-  },
-  {
-    name: 'James',
-    githubUsername: 'Zygy93'
-  },
-  {
-    name: 'Selena',
-    githubUsername: 'selenacarlson'
-  },
-  {
-    name: 'Elizabeth',
-    githubUsername: 'lizzwong'
-  },
-  {
-    name: 'Logan',
-    githubUsername: 'loganolzenak'
-  },
-  {
-    name: 'Michael',
-    githubUsername: 'mdgregoire' 
+    name: 'Ty',
+    githubUsername: 'tyrichardson'
   }
 ];
