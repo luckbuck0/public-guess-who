@@ -20,7 +20,7 @@ Prompt the player to pick one of the people by displaying a randomly selected na
 
 Here is a handy function to generate a random number given a minimum and maximum.
 
-```
+```JavaScript
 function randomNumber(min, max){
     return Math.floor(Math.random() * (1 + max - min) + min);
 }
