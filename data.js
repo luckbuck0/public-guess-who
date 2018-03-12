@@ -61,7 +61,7 @@ var people = [
   },
   {
     name: 'Teagan',
-    githubUsername: '	tnouska'
+    githubUsername: 'tnouska'
   },
   {
     name: 'Tenzin',
