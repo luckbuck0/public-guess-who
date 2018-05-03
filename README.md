@@ -33,7 +33,7 @@ function randomNumber(min, max){
     - give them an error message.
     - allow them to try again.
 
-![anim.gif](anim.gif)
+![example.gif](example.gif)
 
 ## Hard Mode
 
