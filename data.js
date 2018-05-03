@@ -1,82 +1,30 @@
 var people = [
   {
-    name: 'Alex',
-    githubUsername: 'agjorvad'
+    name: 'Dev',
+    githubUsername: 'devjanaprime'
   },
   {
-    name: 'Bree',
-    githubUsername: 'juniormince'
+    name: 'Dane',
+    githubUsername: 'DoctorHowser'
   },
   {
-    name: 'Cory',
-    githubUsername: 'superginrai' 
+    name: 'Mary',
+    githubUsername: 'mbmosman'
   },
   {
-    name: 'Dylan',
-    githubUsername: 'dylandorsey.git'
+    name: 'Chris',
+    githubUsername: 'christopher-black'
   },
   {
-    name: 'Liz',
-    githubUsername: 'LizGoff'
+    name: 'Kris',
+    githubUsername: 'kdszafranski'
   },
   {
-    name: 'Ellen',
-    githubUsername: 'llenk'
+    name: 'Luke',
+    githubUsername: 'LukeSchlangen'
   },
   {
-    name: 'Emily',
-    githubUsername: 'emily-kay'
-  },
-  {
-    name: 'Greg',
-    githubUsername: 'gvorvik'
-  },
-  {
-    name: 'Ilana',
-    githubUsername: 'ilananagib'
-  },
-  {
-    name: 'Jason',
-    githubUsername: 'Phanx091'
-  },
-  {
-    name: 'Katie',
-    githubUsername: 'katiemikul'
-  },
-  {
-    name: 'Kevin',
-    githubUsername: 'KevinJDexter'
-  },
-  {
-    name: 'Shely',
-    githubUsername: 'micheledexter.git'
-  },
-  {
-    name: 'Nathan',
-    githubUsername: 'nkean'
-  },
-  {
-    name: 'Pa Yeng',
-    githubUsername: 'payengt24'
-  },
-  {
-    name: 'Bob',
-    githubUsername: 'bobpetersen'
-  },
-  {
-    name: 'Rory',
-    githubUsername: 'roryiv'
-  },
-  {
-    name: 'Sam',
-    githubUsername: 'vande713'
-  },
-  {
-    name: 'Torben',
-    githubUsername: 'TorbenJepsen'
-  },
-  {
-    name: 'Kristen',
-    githubUsername: 'sailorgoon'
+    name: 'Ally',
+    githubUsername: 'Lysautumn'
   }
 ];
