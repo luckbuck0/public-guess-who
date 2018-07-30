@@ -1,30 +1,78 @@
 var people = [
   {
-    name: 'Dev',
-    githubUsername: 'devjanaprime'
+    name: 'Abbey',
+    githubUsername: 'abbeyjanicek'
   },
   {
-    name: 'Dane',
-    githubUsername: 'DoctorHowser'
+    name: 'Adam',
+    githubUsername: 'AdamVaj79'
   },
   {
-    name: 'Mary',
-    githubUsername: 'mbmosman'
+    name: 'Ahmed',
+    githubUsername: 'Aomar18'
   },
   {
-    name: 'Chris',
-    githubUsername: 'christopher-black'
+    name: 'AJ',
+    githubUsername: 'Ajames07'
   },
   {
-    name: 'Kris',
-    githubUsername: 'kdszafranski'
+    name: 'Dan',
+    githubUsername: 'mackay2588'
   },
   {
-    name: 'Luke',
-    githubUsername: 'LukeSchlangen'
+    name: 'Isaac',
+    githubUsername: 'IsaacOverlander'
   },
   {
-    name: 'Ally',
-    githubUsername: 'Lysautumn'
+    name: 'Jakeh',
+    githubUsername: 'Maelstrm'
+  },
+  {
+    name: 'Jennifer',
+    githubUsername: 'jenniferpetzoldt'
+  },
+  {
+    name: 'Jesse',
+    githubUsername: 'remmie77'
+  },
+  {
+    name: 'Julia',
+    githubUsername: 'juliaballiet'
+  },
+  {
+    name: 'Justin',
+    githubUsername: 'spitz-the-great'
+  },
+  {
+    name: 'Kara',
+    githubUsername: 'k-burn'
+  },
+  {
+    name: 'Kyra',
+    githubUsername: 'kyracalvert'
+  },
+  {
+    name: 'Lais',
+    githubUsername: 'lvang5'
+  },
+  {
+    name: 'Lars',
+    githubUsername: 'larsz-o'
+  },
+  {
+    name: 'Mai',
+    githubUsername: 'm2vang'
+  },
+  {
+    name: 'Paul',
+    githubUsername: 'pheggeseth'
+  },
+  {
+    name: 'Sam',
+    githubUsername: 'sBahta1'
+  },
+  {
+    name: 'Travis',
+    githubUsername: 'Tr4vi5'
   }
 ];
