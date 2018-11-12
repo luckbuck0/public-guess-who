@@ -1,78 +1,82 @@
 var people = [
   {
-    name: 'Abbey',
-    githubUsername: 'abbeyjanicek'
+    name: 'Abdul',
+    githubUsername: 'Abdulrismail9'
   },
   {
-    name: 'Adam',
-    githubUsername: 'AdamVaj79'
+    name: 'Amie',
+    githubUsername: 'amitao'
   },
   {
-    name: 'Ahmed',
-    githubUsername: 'Aomar18'
+    name: 'Anders',
+    githubUsername: 'rydena021'
   },
   {
-    name: 'AJ',
-    githubUsername: 'Ajames07'
+    name: 'Bode',
+    githubUsername: 'bodecci'
   },
   {
-    name: 'Dan',
-    githubUsername: 'mackay2588'
+    name: 'Carson',
+    githubUsername: 'sundrata'
   },
   {
-    name: 'Isaac',
-    githubUsername: 'IsaacOverlander'
+    name: 'David',
+    githubUsername: 'dmayou'
   },
   {
-    name: 'Jakeh',
-    githubUsername: 'Maelstrm'
+    name: 'Isaiah',
+    githubUsername: 'Buckhalton'
   },
   {
-    name: 'Jennifer',
-    githubUsername: 'jenniferpetzoldt'
+    name: 'JD',
+    githubUsername: 'jdsghuman'
   },
   {
-    name: 'Jesse',
-    githubUsername: 'remmie77'
+    name: 'John',
+    githubUsername: 'JohnAWorley'
   },
   {
-    name: 'Julia',
-    githubUsername: 'juliaballiet'
+    name: 'Josh',
+    githubUsername: 'J-Byron'
   },
   {
-    name: 'Justin',
-    githubUsername: 'spitz-the-great'
+    name: 'Madison',
+    githubUsername: 'mlhershkovitz'
   },
   {
-    name: 'Kara',
-    githubUsername: 'k-burn'
+    name: 'Morgan',
+    githubUsername: 'morgancostigan'
   },
   {
-    name: 'Kyra',
-    githubUsername: 'kyracalvert'
+    name: 'Phia',
+    githubUsername: 'phiathao'
   },
   {
-    name: 'Lais',
-    githubUsername: 'lvang5'
+    name: 'Rebecca',
+    githubUsername: 'fieldofficeco'
   },
   {
-    name: 'Lars',
-    githubUsername: 'larsz-o'
+    name: 'Ryan',
+    githubUsername: 'ryanmundy'
   },
   {
-    name: 'Mai',
-    githubUsername: 'm2vang'
+    name: 'Said',
+    githubUsername: 'saidomar23'
   },
   {
-    name: 'Paul',
-    githubUsername: 'pheggeseth'
-  },
-  {
-    name: 'Sam',
-    githubUsername: 'sBahta1'
+    name: 'Tang',
+    githubUsername: 'ntxooyaj89'
   },
   {
     name: 'Travis',
-    githubUsername: 'Tr4vi5'
+    githubUsername: 'travislang'
+  },
+  {
+    name: 'Vang',
+    githubUsername: 'vxiong029'
+  },
+  {
+    name:'Victoria',
+    githubUsername: 'victoriachhieng'
   }
 ];
