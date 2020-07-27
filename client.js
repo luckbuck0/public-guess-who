@@ -1,1 +1,1 @@
-console.log('Here are all the availible people:', people);
+console.log('Here are all the available people:', people);
