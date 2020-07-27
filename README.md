@@ -3,10 +3,10 @@
 You will be creating a pick-the-person game with HTML, CSS, and jQuery!
 
 ## Update Your GitHub Profile Picture
-Before you get started writing code, please update your GitHub profile to include a picture of yourself.
+Before you get started writing code, please update your GitHub profile to include a picture of yourself. Feel free to add you and your group members to the `data.js` file -- follow the format!
 
 ## Display Profile Pictures
-On document load, append divs for each member of the class on to the DOM with jQuery, each containing an image from each GitHub profile (see the provided data.js file). As an example, the below HTML would produce Chris's GitHub profile picture where `christopher-black` is Chris's GitHub username and `250` is the size of the picture requested.
+On document load, append divs for each person in the `data.js` file to the DOM with jQuery (not hardcoded), each containing an image from each GitHub profile (see the provided data.js file). As an example, the below HTML would produce Chris's GitHub profile picture where `christopher-black` is Chris's GitHub username and `250` is the size of the picture requested.
 
 ```HTML
 <img src="https://github.com/christopher-black.png?size=250" alt="Profile image of Chris">
