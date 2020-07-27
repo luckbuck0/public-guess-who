@@ -12,19 +12,19 @@ var people = [
     githubUsername: 'mbmosman'
   },
   {
-    name: 'Chris',
-    githubUsername: 'christopher-black'
-  },
-  {
     name: 'Kris',
     githubUsername: 'kdszafranski'
   },
   {
-    name: 'Luke',
-    githubUsername: 'LukeSchlangen'
+    name: 'Edan',
+    githubUsername: 'eschwartz'
   },
   {
     name: 'Casie',
     githubUsername: 'cassandradanger'
-  }
+  },
+  {
+    name: 'Chris',
+    githubUsername: 'christopher-black'
+  },
 ];
