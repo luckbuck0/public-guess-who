@@ -8,8 +8,8 @@ var people = [
     githubUsername: 'DoctorHowser'
   },
   {
-    name: 'Mary',
-    githubUsername: 'mbmosman'
+    name: 'Matt',
+    githubUsername: 'matthew-black'
   },
   {
     name: 'Kris',
@@ -20,8 +20,8 @@ var people = [
     githubUsername: 'eschwartz'
   },
   {
-    name: 'Casie',
-    githubUsername: 'cassandradanger'
+    name: 'Liz',
+    githubUsername: 'emkerber'
   },
   {
     name: 'Chris',
