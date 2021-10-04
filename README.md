@@ -11,7 +11,7 @@ On document load, append divs for each person in the people array (it comes from
 ```HTML
 <img src="https://github.com/christopher-black.png?size=250" alt="Profile image of Chris">
 ```
-You'll need to access the property of each persons github username.
+You'll need to access the property of each persons `githubUsername` property.
 
 
 ## Start the Game
